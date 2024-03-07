@@ -1,4 +1,4 @@
-# Course completion of Project Creating anime characters using DCGANs and Keras
+# Course completion of Project Build a Chatbot to Analyze PDF Documents Using LLM
 ## Author : CognitiveClass AI
 
 Mentee assignment from IBM Advance AI @ infinite Learning 
